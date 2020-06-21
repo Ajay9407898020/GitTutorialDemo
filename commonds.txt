@@ -1,0 +1,23 @@
+Commands
+1. git 
+2. git config --global user.name "Ajay"
+3. git config --global user.email "ajaywanjari4@gmail.com"
+4. git config --list
+5. git config user.name
+6. git config user.email
+7. git status
+8. git init
+9. git add --a 			(make the files into staging area)
+10. git status
+11. git commit -m "Intial commit"
+12. git log
+13. git add first.txt
+14. rm -rf .git   (to delete the repository)
+15. git clone (paste the repository from git)
+16. 
+
+Theory
+1.Three stages of git
+   a) stage files   (working directory)
+   b) commit    (Staging area)
+   c) Checkout file  (Git directory)
